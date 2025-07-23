@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Mikahil Freer"
+  name             : "Mikahil (Misha) Freer"
   pronouns         : # example: "she/her"  
-  bio              : "Lecturer"
+  bio              : "Lecturer, University of Essex"
   location         : #
-  employer         : "University of Essex"
+  employer         : #
   uri              : # URL
   email            : "m.freer@essex.ac.uk" 
 
