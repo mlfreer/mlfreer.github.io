@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Lecturer (Assistant Professor) in the Department of Economics at the University of Essex.
+I'm a Lecturer (Assistant Professor) in the [Department of Economics at the University of Essex](https://www.essex.ac.uk/departments/economics).
 
 Previously I was a Postdoctoral Fellow in the ECARES at the Université libre de Bruxelles and held a Research Associate position in the Department of Economics at the University of Leuven (KU Leuven). In addition, I was a member of the Group for the Advancement of Revealed Preferences (GARP). 
 
