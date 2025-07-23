@@ -61,7 +61,7 @@ I have received my Ph.D. from the [Interdisciplinary Center for Economic Science
 
 + Castillo, M. and Freer, M. (2018) 
 [Revealed Differences](https://doi.org/10.1016/j.jebo.2017.10.017).  
-**Journal of Economic Behavior &  Organization**  
+**Journal of Economic Behavior &  Organization**
 [WP]
 
 # Working Papers:
