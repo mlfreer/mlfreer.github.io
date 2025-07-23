@@ -66,14 +66,14 @@ I have received my Ph.D. from the [Interdisciplinary Center for Economic Science
 
 # Working Papers:
 
-+ Motives for Delegating Financial Decisions 
++ [Motives for Delegating Financial Decisions](https://arxiv.org/pdf/2309.03419)
 (with Dan Friedman and Simon Weidenholzer)
 
-+ Revealed Preference Analysis Under Limited Attention 
++ [Revealed Preference Analysis Under Limited Attention](https://arxiv.org/abs/2208.07659)
 (with Hassan Nosratabadi)  
 (R&R at JEBO)
 
-+ On the Welfare (Ir)Relevance of Two-Stage Models 
++ [On the Welfare (Ir)Relevance of Two-Stage Models](https://arxiv.org/pdf/2411.08263)
 (with Hassan Nosratabadi)
 
 # Work in Progress: 
@@ -83,3 +83,5 @@ I have received my Ph.D. from the [Interdisciplinary Center for Economic Science
 
 + Reconstructing Strategies in Dynamic Games 
 (with Arthur Dolgopolov)
+
++ 
