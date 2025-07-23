@@ -21,7 +21,7 @@ I have received my Ph.D. from the [Interdisciplinary Center for Economic Science
 
 + Freer M. and Surana K., (2024) 
 [Marital Stability With Committed Couples: A Revealed Preference Analysis](https://doi.org/10.1016/j.geb.2024.11.018). 
-**Games and Economic Behavior** 
+**Games and Economic Behavior**  
 [WP]
 
 + Dianat, A. and Freer M., (2024) 
@@ -31,22 +31,22 @@ I have received my Ph.D. from the [Interdisciplinary Center for Economic Science
 
 + Castillo, M. and Freer M., (2023) 
 [A general revealed preference test for quasilinear preferences: theory and experiments](https://link.springer.com/article/10.1007/s10683-023-09790-1).
-**Experimental Economics** 
+**Experimental Economics**  
 [WP]
 
 + Freer, M. and Martinelli, C. (2023) 
 [An Algebraic Approach to Revealed Preferences](https://link.springer.com/article/10.1007/s00199-022-01421-9). 
-**Economic Theory** 
+**Economic Theory**  
 [WP]
 
 + Cherchye L., De Rock B., Demuynck, T., and Freer M. (2022) 
 [Revealed Preference Analysis of Expected Utility Maximization under Prize-Probability Trade-Offs](https://doi.org/10.1016/j.jmateco.2021.102607). 
-**Journal of Mathematical Economics** 
+**Journal of Mathematical Economics**  
 [WP]
 
 + Freer, M. and Martinelli, C. (2021) 
 [A Utility Representation Theorem for General Revealed Preferences](https://doi.org/10.1016/j.mathsocsci.2021.03.018). 
-**Mathematical Social Sciences** 
+**Mathematical Social Sciences**  
 [WP]
 
 + Freer, M., Martinelli, C., and Wang, S. (2020) 
@@ -56,12 +56,12 @@ I have received my Ph.D. from the [Interdisciplinary Center for Economic Science
 
 + Castillo, M., Cross, P., and Freer, M. (2019) 
 [Nonparametric Utility Theory in Strategic Settings: Revealing Preferences and Beliefs from Games of Proposal and Response](https://doi.org/10.1016/j.geb.2019.02.010). 
-**Games and Economic Behavior** 
+**Games and Economic Behavior**  
 [WP]
 
 + Castillo, M. and Freer, M. (2018) 
 [Revealed Differences](https://doi.org/10.1016/j.jebo.2017.10.017).
-**Journal of Economic Behavior &  Organization**
+**Journal of Economic Behavior &  Organization**  
 [WP]
 
 # Working Papers:
@@ -84,4 +84,5 @@ I have received my Ph.D. from the [Interdisciplinary Center for Economic Science
 + Reconstructing Strategies in Dynamic Games 
 (with Arthur Dolgopolov)
 
-+ 
++ Experimental School Choice with Parents as Subjects
+(with Thilo Klein and Josue Ortega)
