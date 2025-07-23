@@ -64,19 +64,21 @@ I have received my Ph.D. from the [Interdisciplinary Center for Economic Science
 (with [Dan Friedman](https://leeps.ucsc.edu/dan-friedman-uc-santa-cruz/) and [Simon Weidenholzer](https://simonweidenholzer.weebly.com/))
 
 + [Revealed Preference Analysis Under Limited Attention](https://arxiv.org/abs/2208.07659)
-(with Hassan Nosratabadi)  
+(with [Hassan Nosratabadi](https://sites.google.com/site/hnosratabadi))  
 *(R&R at JEBO)*
 
 + [On the Welfare (Ir)Relevance of Two-Stage Models](https://arxiv.org/pdf/2411.08263)
-(with Hassan Nosratabadi)
+(with [Hassan Nosratabadi](https://sites.google.com/site/hnosratabadi))
 
 # Work in Progress: 
 
 + Testing Concepts of Simplicity in Mechanism Design 
-(with Ahrash Dianat and Christian Basteck)
+(with [Ahrash Dianat](https://sites.google.com/site/ahrashdianat/) and [Christian Basteck](https://sites.google.com/site/christianbasteck/))
+
++ Revealing Preferences and Choice Procedures (with [Ahrash Dianat](https://sites.google.com/site/ahrashdianat/))
 
 + Reconstructing Strategies in Dynamic Games 
-(with Arthur Dolgopolov)
+(with [Arthur Dolgopolov](https://arthurdolgopolov.net/))
 
 + Experimental School Choice with Parents as Subjects
-(with Thilo Klein and Josue Ortega)
+(with [Thilo Klein](https://www.hs-pforzheim.de/en/profile/thiloklein) and [Josue Ortega](https://www.josueortega.com/))
