@@ -25,7 +25,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 + Freer M. and Surana K., (2024) 
 [Marital Stability With Committed Couples: A Revealed Preference Analysis](https://doi.org/10.1016/j.geb.2024.11.018). 
 **Games and Economic Behavior**  
-[WP]
+[WP](https://arxiv.org/pdf/2110.10781)
 
 + Dianat, A. and Freer M., (2024) 
 [Credibility in Second-Price Auctions: An Experimental Test](https://link.springer.com/article/10.1007/s10683-023-09802-0).  **Experimental Economics**  
