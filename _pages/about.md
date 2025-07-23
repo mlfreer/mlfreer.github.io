@@ -25,7 +25,7 @@ I have received my Ph.D. from the [Interdisciplinary Center for Economic Science
 [WP]
 
 + Dianat, A. and Freer M., (2024) 
-[Credibility in Second-Price Auctions: An Experimental Test](https://link.springer.com/article/10.1007/s10683-023-09802-0).  **Experimental Economics** 
+[Credibility in Second-Price Auctions: An Experimental Test](https://link.springer.com/article/10.1007/s10683-023-09802-0).  **Experimental Economics**  
 [WP]
 
 + Castillo, M. and Freer M., (2023) 
@@ -61,11 +61,11 @@ I have received my Ph.D. from the [Interdisciplinary Center for Economic Science
 # Working Papers:
 
 + [Motives for Delegating Financial Decisions](https://arxiv.org/pdf/2309.03419)
-(with Dan Friedman and Simon Weidenholzer)
+(with [Dan Friedman](https://leeps.ucsc.edu/dan-friedman-uc-santa-cruz/) and [Simon Weidenholzer](https://simonweidenholzer.weebly.com/))
 
 + [Revealed Preference Analysis Under Limited Attention](https://arxiv.org/abs/2208.07659)
 (with Hassan Nosratabadi)  
-(R&R at JEBO)
+*(R&R at JEBO)*
 
 + [On the Welfare (Ir)Relevance of Two-Stage Models](https://arxiv.org/pdf/2411.08263)
 (with Hassan Nosratabadi)
