@@ -60,14 +60,14 @@ Here is my [CV](https://mlfreer.github.io/files/Freer_CV.pdf).
 
 # Working Papers:
 
-+ [Motives for Delegating Financial Decisions](https://arxiv.org/pdf/2309.03419)
++ [Motives for Delegating Financial Decisions](https://arxiv.org/pdf/2309.03419)  
 (with [Dan Friedman](https://leeps.ucsc.edu/dan-friedman-uc-santa-cruz/) and [Simon Weidenholzer](https://simonweidenholzer.weebly.com/))
 
-+ [Revealed Preference Analysis Under Limited Attention](https://arxiv.org/abs/2208.07659)
++ [Revealed Preference Analysis Under Limited Attention](https://arxiv.org/abs/2208.07659)  
 (with [Hassan Nosratabadi](https://sites.google.com/site/hnosratabadi))  
 *(R&R at JEBO)*
 
-+ [On the Welfare (Ir)Relevance of Two-Stage Models](https://arxiv.org/pdf/2411.08263)
++ [On the Welfare (Ir)Relevance of Two-Stage Models](https://arxiv.org/pdf/2411.08263)  
 (with [Hassan Nosratabadi](https://sites.google.com/site/hnosratabadi))
 
 # Work in Progress: 
