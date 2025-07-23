@@ -7,7 +7,13 @@ redirect_from:
   - /about.html
 ---
 
+I'm a Lecturer (Assistant Professor) in the Department of Economics at the University of Essex.
 
-My research interests are behavioral economics, experimental economics and game theory. I combine theoretical, empirical, and experimental approaches to explore these issues.
+Previously I was a Postdoctoral Fellow in the ECARES at the Université libre de Bruxelles and held a Research Associate position in the Department of Economics at the University of Leuven (KU Leuven). In addition, I was a member of the Group for the Advancement of Revealed Preferences (GARP). 
+
+I have received my Ph.D. from the Interdisciplinary Center for Economic Science at George Mason University.
+
+*Research interests*: experimental economics, behavioral economics, game theory, and revealed preference theory.
+
 
 
