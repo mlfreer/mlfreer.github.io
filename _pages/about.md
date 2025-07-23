@@ -39,11 +39,11 @@ Here is my [CV](https://mlfreer.github.io/files/Freer_CV.pdf).
 
 + Cherchye L., De Rock B., Demuynck, T., and Freer M. (2022) 
 [Revealed Preference Analysis of Expected Utility Maximization under Prize-Probability Trade-Offs](https://doi.org/10.1016/j.jmateco.2021.102607). **Journal of Mathematical Economics**  
-[**[WP]**](https://mlfreer.github.io/files/)
+[**[WP]**](https://mlfreer.github.io/files/CDDF_PrizeProbability.pdf)
 
 + Freer, M. and Martinelli, C. (2021) 
 [A Utility Representation Theorem for General Revealed Preferences](https://doi.org/10.1016/j.mathsocsci.2021.03.018).  **Mathematical Social Sciences**  
-[**[WP]**](https://mlfreer.github.io/files/CDDF_PrizeProbability.pdf)
+[**[WP]**](https://mlfreer.github.io/files/FreerMartinelli_ARepresentationTheorem.pdf)
 
 + Freer, M., Martinelli, C., and Wang, S. (2020) 
 [Collective Experimentation: A Laboratory Study](https://doi.org/10.1016/j.jebo.2019.08.011). **Journal of Economic Behavior & Organization**  
