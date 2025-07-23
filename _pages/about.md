@@ -19,23 +19,29 @@ I have received my Ph.D. from the Interdisciplinary Center for Economic Science 
 
 # Publications:
 
-+ Freer M. and Surana K., (2024) Marital Stability With Committed Couples: A Revealed Preference Analysis. Games and Economic Behavior [WP]
++ Freer M. and Surana K., (2024) Marital Stability With Committed Couples: A Revealed Preference Analysis. **Games and Economic Behavior** [WP]
 
-+ Dianat, A. and Freer M., (2024) Credibility in Second-Price Auctions: An Experimental Test. Experimental Economics [WP]
++ Dianat, A. and Freer M., (2024) Credibility in Second-Price Auctions: An Experimental Test. **Experimental Economics** [WP]
 
-+ Castillo, M. and Freer M., (2023) A general revealed preference test for quasilinear preferences: theory and experiments. Experimental Economics [WP]
++ Castillo, M. and Freer M., (2023) A general revealed preference test for quasilinear preferences: theory and experiments.
+**Experimental Economics** [WP]
 
-+ Freer, M. and Martinelli, C. (2023) An Algebraic Approach to Revealed Preferences. Economic Theory [WP]
++ Freer, M. and Martinelli, C. (2023) An Algebraic Approach to Revealed Preferences. **Economic Theory** [WP]
 
-+ Cherchye L., De Rock B., Demuynck, T., and Freer M. (2022) Revealed Preference Analysis of Expected Utility Maximization under Prize-Probability Trade-Offs. Journal of Mathematical Economics [WP]
++ Cherchye L., De Rock B., Demuynck, T., and Freer M. (2022) Revealed Preference Analysis of Expected Utility Maximization under Prize-Probability Trade-Offs. **Journal of Mathematical Economics** [WP]
 
-+ Freer, M. and Martinelli, C. (2021) A Utility Representation Theorem for General Revealed Preferences. Mathematical Social Sciences [WP]
++ Freer, M. and Martinelli, C. (2021) A Utility Representation Theorem for General Revealed Preferences. **Mathematical Social Sciences** [WP]
 
-+ Freer, M., Martinelli, C., and Wang, S. (2020) Collective Experimentation: A Laboratory Study.  Journal of Economic Behavior & Organization  [WP]
++ Freer, M., Martinelli, C., and Wang, S. (2020) Collective Experimentation: A Laboratory Study.  
+**Journal of Economic Behavior & Organization**  [WP]
 
-+ Castillo, M., Cross, P., and Freer, M. (2019) Nonparametric Utility Theory in Strategic Settings: Revealing Preferences and Beliefs from Games of Proposal and Response, Games and Economic Behavior [WP]
++ Castillo, M., Cross, P., and Freer, M. (2019) Nonparametric Utility Theory in Strategic Settings: Revealing Preferences and Beliefs from Games of Proposal and Response, 
+**Games and Economic Behavior** 
+[WP]
 
-+ Castillo, M. and Freer, M. (2018) Revealed Differences.  Journal of Economic Behavior &  Organization  [WP]
++ Castillo, M. and Freer, M. (2018) Revealed Differences.  
+**Journal of Economic Behavior &  Organization**  
+[WP]
 
 # Working Papers:
 
