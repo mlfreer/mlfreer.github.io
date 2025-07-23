@@ -71,13 +71,14 @@ I have received my Ph.D. from the [Interdisciplinary Center for Economic Science
 
 # Work in Progress: 
 
-+ Testing Concepts of Simplicity in Mechanism Design 
++ Testing Concepts of Simplicity in Mechanism Design  
 (with [Ahrash Dianat](https://sites.google.com/site/ahrashdianat/) and [Christian Basteck](https://sites.google.com/site/christianbasteck/))
 
-+ Revealing Preferences and Choice Procedures (with [Ahrash Dianat](https://sites.google.com/site/ahrashdianat/))
++ Revealing Preferences and Choice Procedures  
+(with [Ahrash Dianat](https://sites.google.com/site/ahrashdianat/))
 
-+ Reconstructing Strategies in Dynamic Games 
++ Reconstructing Strategies in Dynamic Games  
 (with [Arthur Dolgopolov](https://arthurdolgopolov.net/))
 
-+ Experimental School Choice with Parents as Subjects
++ Experimental School Choice with Parents as Subjects  
 (with [Thilo Klein](https://www.hs-pforzheim.de/en/profile/thiloklein) and [Josue Ortega](https://www.josueortega.com/))
