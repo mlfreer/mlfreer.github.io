@@ -25,13 +25,11 @@ I have received my Ph.D. from the [Interdisciplinary Center for Economic Science
 [WP]
 
 + Dianat, A. and Freer M., (2024) 
-[Credibility in Second-Price Auctions: An Experimental Test](https://link.springer.com/article/10.1007/s10683-023-09802-0). 
-**Experimental Economics** 
+[Credibility in Second-Price Auctions: An Experimental Test](https://link.springer.com/article/10.1007/s10683-023-09802-0).  **Experimental Economics** 
 [WP]
 
 + Castillo, M. and Freer M., (2023) 
-[A general revealed preference test for quasilinear preferences: theory and experiments](https://link.springer.com/article/10.1007/s10683-023-09790-1).
-**Experimental Economics**  
+[A general revealed preference test for quasilinear preferences: theory and experiments](https://link.springer.com/article/10.1007/s10683-023-09790-1). **Experimental Economics**  
 [WP]
 
 + Freer, M. and Martinelli, C. (2023) 
@@ -40,13 +38,11 @@ I have received my Ph.D. from the [Interdisciplinary Center for Economic Science
 [WP]
 
 + Cherchye L., De Rock B., Demuynck, T., and Freer M. (2022) 
-[Revealed Preference Analysis of Expected Utility Maximization under Prize-Probability Trade-Offs](https://doi.org/10.1016/j.jmateco.2021.102607). 
-**Journal of Mathematical Economics**  
+[Revealed Preference Analysis of Expected Utility Maximization under Prize-Probability Trade-Offs](https://doi.org/10.1016/j.jmateco.2021.102607). **Journal of Mathematical Economics**  
 [WP]
 
 + Freer, M. and Martinelli, C. (2021) 
-[A Utility Representation Theorem for General Revealed Preferences](https://doi.org/10.1016/j.mathsocsci.2021.03.018). 
-**Mathematical Social Sciences**  
+[A Utility Representation Theorem for General Revealed Preferences](https://doi.org/10.1016/j.mathsocsci.2021.03.018).  **Mathematical Social Sciences**  
 [WP]
 
 + Freer, M., Martinelli, C., and Wang, S. (2020) 
@@ -55,13 +51,11 @@ I have received my Ph.D. from the [Interdisciplinary Center for Economic Science
 [WP]
 
 + Castillo, M., Cross, P., and Freer, M. (2019) 
-[Nonparametric Utility Theory in Strategic Settings: Revealing Preferences and Beliefs from Games of Proposal and Response](https://doi.org/10.1016/j.geb.2019.02.010). 
-**Games and Economic Behavior**  
+[Nonparametric Utility Theory in Strategic Settings: Revealing Preferences and Beliefs from Games of Proposal and Response](https://doi.org/10.1016/j.geb.2019.02.010).  **Games and Economic Behavior**  
 [WP]
 
 + Castillo, M. and Freer, M. (2018) 
-[Revealed Differences](https://doi.org/10.1016/j.jebo.2017.10.017).
-**Journal of Economic Behavior &  Organization**  
+[Revealed Differences](https://doi.org/10.1016/j.jebo.2017.10.017). **Journal of Economic Behavior &  Organization**  
 [WP]
 
 # Working Papers:
