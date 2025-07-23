@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Mikahil Freer"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Lecturer"
+  location         : #
+  employer         : "University of Essex"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "m.freer@essex.ac.uk" 
 
   # Academic websites
   academia         : # URL
