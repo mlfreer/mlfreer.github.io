@@ -42,6 +42,7 @@ I have received my Ph.D. from the Interdisciplinary Center for Economic Science 
 + Motives for Delegating Financial Decisions (with Dan Friedman and Simon Weidenholzer)
 
 + Revealed Preference Analysis Under Limited Attention (with Hassan Nosratabadi)
+
 (R&R at JEBO)
 
 + On the Welfare (Ir)Relevance of Two-Stage Models (with Hassan Nosratabadi)
