@@ -60,7 +60,7 @@ I have received my Ph.D. from the [Interdisciplinary Center for Economic Science
 [WP]
 
 + Castillo, M. and Freer, M. (2018) 
-[Revealed Differences](https://doi.org/10.1016/j.jebo.2017.10.017).  
+[Revealed Differences](https://doi.org/10.1016/j.jebo.2017.10.017).
 **Journal of Economic Behavior &  Organization**
 [WP]
 
@@ -70,7 +70,7 @@ I have received my Ph.D. from the [Interdisciplinary Center for Economic Science
 (with Dan Friedman and Simon Weidenholzer)
 
 + Revealed Preference Analysis Under Limited Attention 
-(with Hassan Nosratabadi)
+(with Hassan Nosratabadi)  
 (R&R at JEBO)
 
 + On the Welfare (Ir)Relevance of Two-Stage Models 
