@@ -15,10 +15,7 @@ I have received my Ph.D. from the [Interdisciplinary Center for Economic Science
 
 **Research interests**: experimental economics, behavioral economics, game theory, and revealed preference theory.
 
-Here is my [CV](---
-permalink: /publication/2009-10-01-paper-title-number-1
----
-).
+Here is my [CV](http://mlfreer.github.io/files/paper1.pdf).
 
 # Publications:
 
