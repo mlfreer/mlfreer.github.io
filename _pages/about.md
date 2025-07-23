@@ -13,7 +13,9 @@ Previously I was a Postdoctoral Fellow in the ECARES at the Université libre de
 
 I have received my Ph.D. from the Interdisciplinary Center for Economic Science at George Mason University.
 
-*Research interests*: experimental economics, behavioral economics, game theory, and revealed preference theory.
+**Research interests**: experimental economics, behavioral economics, game theory, and revealed preference theory.
 
 
+
+# Publications:
 
