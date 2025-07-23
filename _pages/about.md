@@ -46,8 +46,7 @@ I have received my Ph.D. from the [Interdisciplinary Center for Economic Science
 [WP]
 
 + Freer, M., Martinelli, C., and Wang, S. (2020) 
-[Collective Experimentation: A Laboratory Study](https://doi.org/10.1016/j.jebo.2019.08.011).  
-**Journal of Economic Behavior & Organization**  
+[Collective Experimentation: A Laboratory Study](https://doi.org/10.1016/j.jebo.2019.08.011). **Journal of Economic Behavior & Organization**  
 [WP]
 
 + Castillo, M., Cross, P., and Freer, M. (2019) 
